@@ -1,5 +1,4 @@
-Projekt Chat w Javie
-Założenia ogólne:
+Założenia ogólne
 1. Projekt realizowany samodzielnie przez wszystkich uczestników kursu
 2. Nieprzekraczalny termin oddania projektu to 10.04.2022
 3. Stworzony kod powinien być opublikowany na repozytorium git np. GitHub
