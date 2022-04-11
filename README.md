@@ -22,13 +22,16 @@ When app server is up and a new client server has started user must provide his/
 After entering username the communication between both servers will be established:
 
 Client server:
+
 ![image](https://user-images.githubusercontent.com/84178074/162779319-cb0d241a-fea5-4f59-a391-a796882a2603.png)
 
 App server:
+
 ![image](https://user-images.githubusercontent.com/84178074/162779619-22326a05-f21c-4f96-8828-2cd7254b07d6.png)
 
 # Available commands
 User always can check available commands by typing following phrase: "help:". It will display all available commands and its description:
+
 ![image](https://user-images.githubusercontent.com/84178074/162780100-46b14ece-899f-4546-a6bf-341332f1f1dc.png)
 
 # Changing channels
@@ -60,4 +63,3 @@ Each user can send files to other participants of the current channel. Providing
 ![image](https://user-images.githubusercontent.com/84178074/162785578-5374f594-e826-4046-ab6f-cd20897c3880.png)
 
 ![image](https://user-images.githubusercontent.com/84178074/162785915-105d2119-281f-4b09-a5c3-f4c3eaff9b17.png)
-
