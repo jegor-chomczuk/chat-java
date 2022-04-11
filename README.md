@@ -12,6 +12,7 @@ Main chat features:
 In order to make chat work server must be started first. To do so run main method on Server class. New server will start and will create a socket on port 8000.
 
 For each chat user separate client server must be started by running main method on Client class (in case of using IntelliJ it is possible by choosing "Allow multiple instances" option in Run Configurations).
+
 ![image](https://user-images.githubusercontent.com/84178074/162778199-dcf90353-b987-4638-b5a1-81c5c54284b1.png)
 
 # Joining the chat
