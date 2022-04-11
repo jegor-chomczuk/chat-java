@@ -36,7 +36,7 @@ A user can always check the available commands by typing command: "help:". All a
 ![image](https://user-images.githubusercontent.com/84178074/162780100-46b14ece-899f-4546-a6bf-341332f1f1dc.png)
 
 # Changing channels
-Every user entering the chat will be placed on the Main channel. Of course it is possible to switch to other channels by typing command "channel:{channel name}".
+Every user entering the chat will be placed on the Main channel. It is possible to switch to other channels by typing command "channel:{channel name}".
 
 ![image](https://user-images.githubusercontent.com/84178074/162781101-6ce5a5c8-6772-4a20-853a-9e605abc78da.png)
 
