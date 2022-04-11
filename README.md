@@ -69,3 +69,5 @@ Any user can send files to other participants in the current channel. Specifying
 A user can leave the chat by typing command "exit:":
 
 ![image](https://user-images.githubusercontent.com/84178074/162819520-d62ca04c-7d47-48ee-9931-7b65cf2dabc6.png)
+
+_Regards to ordinary-d and his Rick Roll work_ (https://www.deviantart.com/ordinary-d/art/Rick-Roll-eps10-ai10-523928958)
