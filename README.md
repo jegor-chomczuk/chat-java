@@ -65,7 +65,7 @@ Any user can send files to other participants in the current channel. Specifying
 
 ![image](https://user-images.githubusercontent.com/84178074/162785915-105d2119-281f-4b09-a5c3-f4c3eaff9b17.png)
 
-# Exit
+# Exit chat
 A user can leave the chat by typing command "exit:":
 
 ![image](https://user-images.githubusercontent.com/84178074/162819520-d62ca04c-7d47-48ee-9931-7b65cf2dabc6.png)
