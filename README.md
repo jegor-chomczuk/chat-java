@@ -9,7 +9,7 @@ Main chat features:
 5. Possibility to view the chat history from the client level (if the user participated in the given channel). 
 
 # Starting the application
-For the chat to work, the server must first be started. To do so, run the main method in the Server class. The new server will be started and will create a socket on port 8000.
+For the chat to work, the application server must first be started. To do so, run the main method in the Server class. The new server will be started and will create a socket on port 8000.
 
 For each chat user, start a separate client server by running the main method on the Client class (if using IntelliJ, this is possible by selecting "Allow multiple instances" in Run Configurations).
 
@@ -20,7 +20,7 @@ When the application server starts and the new client server starts, the user mu
 
 ![image](https://user-images.githubusercontent.com/84178074/162778997-d4d365eb-d4c7-42df-8e35-e7fdc9b077f8.png)
 
-When the user name is entered, communication between the two servers will be established:
+When the username is provided, communication between the two servers will be established:
 
 Client server:
 
@@ -59,13 +59,13 @@ Each message is stored in a history.txt file. User can check the history of any 
 ![image](https://user-images.githubusercontent.com/84178074/162784415-d05fe0ed-2742-40c5-8fc1-32a01ed28fed.png)
 
 # Sending files
-Any user can send files to other participants in the current channel. Specifying the command "sendfile:{file path}" will cause other users to download the specified file, which will be visible in the local directory:
+Any user can send files to other participants in the current channel. Specifying the command "sendfile:{file path}" will cause other users to download the specified file, which will be placed in the local directory:
 
 ![image](https://user-images.githubusercontent.com/84178074/162785578-5374f594-e826-4046-ab6f-cd20897c3880.png)
 
 ![image](https://user-images.githubusercontent.com/84178074/162785915-105d2119-281f-4b09-a5c3-f4c3eaff9b17.png)
 
 # Exit
-The user can leave the chat by typing command "exit:":
+A user can leave the chat by typing command "exit:":
 
 ![image](https://user-images.githubusercontent.com/84178074/162819520-d62ca04c-7d47-48ee-9931-7b65cf2dabc6.png)
