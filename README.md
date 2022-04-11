@@ -1,5 +1,5 @@
 # Chat
-The project was implemented using socket technology, which allows communication between the application server side and client servers.
+This chat project was implemented using socket technology, which allows communication between the application server side and client servers.
 
 Main chat features:
 1. Group channel to allow communication between multiple people (a Main channel is created when the application is launched);
